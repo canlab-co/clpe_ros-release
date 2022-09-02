@@ -20,8 +20,8 @@ tracks:
     name: clpe_ros
     patches: null
     release_inc: '3'
-    release_repo_url: null
-    release_tag: ros2-0.1.0
+    release_repo_url: https://github.com/canlab-co/clpe_ros-ros2-release.git
+    release_tag: ros2-0.1.1
     ros_distro: foxy
     vcs_type: git
     vcs_uri: https://github.com/canlab-co/clpe_ros.git

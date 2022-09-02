@@ -2,6 +2,10 @@
 Changelog for package clpe_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2022-08-24)
+------------------
+* remove EEPROM
+
 0.1.0 (2022-04-20)
 ------------------
 * Provides ROS 2 driver for CANLAB CLPE-G-NVP2650D vision system
